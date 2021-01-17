@@ -79,7 +79,7 @@ Per eseguire l'app che verrà sviluppata durante il corso è possibile scegliere
 Nel caso in cui si voglia usare un device fisico bisognerà attivare la modalità sviluppatore sul proprio device.In questo caso è fortemente consigliato scaricare e installare il software gratuito vysor (reperibile al sito https://www.vysor.io/download/?return=https%3A%2F%2Fwww.vysor.io%2F).
 Questo software consente di fare il mirroring dello schermo del proprio device fisico, in modo tale che  anche gli altri partecipanti possano vedere l'app in esecuzione.
 
-***N.B. Usando vysorviene mostrato a video lo schermo del vostro smartphone e, di conseguenza, gli altri vedranno tutto quello che accade sul vostro smartphone (notifiche di messaggi, notifiche di email, chiamate in arrivo, etc.). Per tutelare la vostra privacy si consiglia di mettere lo smartphone in modalità Aereo in modo tale da non
+***N.B. Usando vysor viene mostrato a video lo schermo del vostro smartphone e, di conseguenza, gli altri vedranno tutto quello che accade sul vostro smartphone (notifiche di messaggi, notifiche di email, chiamate in arrivo, etc.). Per tutelare la vostra privacy si consiglia di mettere lo smartphone in modalità Aereo in modo tale da non
 ricevere messaggi o chiamate private.***
 
 ### Device Emulato da Android Studio
@@ -99,12 +99,13 @@ Se vogliamo utilizzare un device simulato dobbiamo:
    
 ![3](https://user-images.githubusercontent.com/53529795/104844513-f4e4a880-58d0-11eb-8714-3ca431f7d8d0.PNG)
 
-6. Scegliamo una "System Image" e scarichiamola cliccando sul pulsante "Download". Dopo aver terminato con il download clicchiamo su "Next" e, se non dobbiamo selezionare delle impostazioni avanzate, possiamo cliccare su "Finish"
+6. Scegliamo una "System Image" e scarichiamola cliccando sul pulsante "Download". 
 
 ![4](https://user-images.githubusercontent.com/53529795/104844514-f615d580-58d0-11eb-81c8-05cddab6343d.PNG)
 
 ![5](https://user-images.githubusercontent.com/53529795/104844516-f7470280-58d0-11eb-940f-83481b01c111.PNG)
 
+7. Dopo aver terminato con il download clicchiamo su "Next" e, se non dobbiamo selezionare delle impostazioni avanzate, possiamo cliccare su "Finish"
 ![6](https://user-images.githubusercontent.com/53529795/104844517-f7df9900-58d0-11eb-9fd9-76d2f88ea550.PNG)
 
 A questo punto il device che abbiamo creato comparirà nella lista "Your Virtual Devices".
